@@ -1,0 +1,5 @@
+.cache
+dist
+*.log
+.env
+node_modules
